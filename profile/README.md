@@ -17,7 +17,7 @@ outcome in your own words; Haarness plans the steps, uses the right tools and ch
 
 ### One assistant. Every screen you use.
 
-| | |
+| Where | What you get |
 | --- | --- |
 | **Terminal** | A quiet, keyboard-first terminal UI and a CLI for scripts and CI |
 | **Desktop** | macOS, Windows and Linux, with diff review, terminals and a built-in browser |
@@ -37,12 +37,12 @@ outcome in your own words; Haarness plans the steps, uses the right tools and ch
 
 ### Open at the core. Hosted when you want it.
 
-| Project | | License |
+| Project | What it is | License |
 | --- | --- | --- |
 | **haarness** | The agent, terminal app, Desktop, server and SDKs — free on your computer | Apache 2.0 |
 | **haarness-router** | A stateless, OpenAI-compatible router for every model provider | MIT |
 | **haarness-cloud** | Haarness Cloud, the hosted service built on the same runtime | Hosted |
-| **haarness-ios** | Haarness for iPhone | |
+| **haarness-ios** | Haarness for iPhone and iPad, coming soon | — |
 
 The repositories open soon. Until then, write to us at **admin@haarness.ai**.
 
