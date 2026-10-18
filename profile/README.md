@@ -26,6 +26,23 @@ outcome in your own words; Haarness plans the steps, uses the right tools and ch
 | **Your editor** | Through the Agent Client Protocol |
 | **Your product** | A versioned server API with TypeScript and Python SDKs |
 
+### Install on macOS, Linux and Windows
+
+With the first public release, one command installs the terminal app, or Desktop:
+
+```sh
+curl -fsSL https://app.haarness.ai/install.sh | sh                           # macOS and Linux
+curl -fsSL https://app.haarness.ai/install.sh | HAARNESS_PRODUCT=desktop sh  # Desktop
+```
+
+```powershell
+irm https://app.haarness.ai/install.ps1 | iex                                  # Windows, in PowerShell
+$env:HAARNESS_PRODUCT='desktop'; irm https://app.haarness.ai/install.ps1 | iex # Desktop
+```
+
+Or download it from [haarness.ai/download](https://haarness.ai/download): `.dmg` for macOS, `.AppImage`
+and `.deb` for Linux, `.exe` for Windows, each for both Intel/AMD and ARM.
+
 ### Capable, and on your terms
 
 - **Choose what it may do.** Approve sensitive steps as they come, or have it ask before every change.
