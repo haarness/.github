@@ -34,7 +34,7 @@ body:
     id: platform
     attributes:
       label: Platform
-      placeholder: macOS 26 arm64 · iOS 26 on iPhone 17 · Ubuntu 24.04
+      placeholder: macOS 26 arm64 · iOS 26 on iPhone 17 · Android 16 on Pixel 9 · Ubuntu 24.04
   - type: textarea
     id: logs
     attributes:
