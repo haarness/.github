@@ -22,7 +22,7 @@ outcome in your own words; Haarness plans the steps, uses the right tools and ch
 | **Terminal** | A quiet, keyboard-first terminal UI and a CLI for scripts and CI |
 | **Desktop** | macOS, Windows and Linux, with diff review, terminals and a built-in browser |
 | **Cloud** | Sessions that keep going when you close the lid, schedules, one account for every model |
-| **iPhone** | Follow every chat and approve from the Lock Screen |
+| **Your phone** | Follow every chat and approve from the Lock Screen or the notification shade, on iPhone and Android |
 | **Your editor** | Through the Agent Client Protocol |
 | **Your product** | A versioned server API with TypeScript and Python SDKs |
 
@@ -43,6 +43,7 @@ outcome in your own words; Haarness plans the steps, uses the right tools and ch
 | **haarness-router** | A stateless, OpenAI-compatible router for every model provider | MIT |
 | **haarness-cloud** | Haarness Cloud, the hosted service built on the same runtime | Hosted |
 | **haarness-ios** | Haarness for iPhone and iPad, coming soon | — |
+| **haarness-android** | Haarness for Android phones and tablets, coming soon | — |
 
 The repositories open soon. Until then, write to us at **admin@haarness.ai**.
 
