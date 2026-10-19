@@ -28,16 +28,16 @@ outcome in your own words; Haarness plans the steps, uses the right tools and ch
 
 ### Install on macOS, Linux and Windows
 
-With the first public release, one command installs the terminal app, or Desktop:
+One command installs the terminal app and Desktop:
 
 ```sh
-curl -fsSL https://haarness.ai/install.sh | sh                           # macOS and Linux
-curl -fsSL https://haarness.ai/install.sh | HAARNESS_PRODUCT=desktop sh  # Desktop
+curl -fsSL https://haarness.ai/install.sh | sh                      # macOS and Linux
+curl -fsSL https://haarness.ai/install.sh | sh -s -- --no-desktop   # without Desktop
 ```
 
 ```powershell
-irm https://haarness.ai/install.ps1 | iex                                  # Windows, in PowerShell
-$env:HAARNESS_PRODUCT='desktop'; irm https://haarness.ai/install.ps1 | iex # Desktop
+irm https://haarness.ai/install.ps1 | iex                                # Windows, in PowerShell
+$env:HAARNESS_NO_DESKTOP='1'; irm https://haarness.ai/install.ps1 | iex  # without Desktop
 ```
 
 Or download it from [haarness.ai/download](https://haarness.ai/download): `.dmg` for macOS, `.AppImage`
