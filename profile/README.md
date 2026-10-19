@@ -31,13 +31,13 @@ outcome in your own words; Haarness plans the steps, uses the right tools and ch
 With the first public release, one command installs the terminal app, or Desktop:
 
 ```sh
-curl -fsSL https://app.haarness.ai/install.sh | sh                           # macOS and Linux
-curl -fsSL https://app.haarness.ai/install.sh | HAARNESS_PRODUCT=desktop sh  # Desktop
+curl -fsSL https://haarness.ai/install.sh | sh                           # macOS and Linux
+curl -fsSL https://haarness.ai/install.sh | HAARNESS_PRODUCT=desktop sh  # Desktop
 ```
 
 ```powershell
-irm https://app.haarness.ai/install.ps1 | iex                                  # Windows, in PowerShell
-$env:HAARNESS_PRODUCT='desktop'; irm https://app.haarness.ai/install.ps1 | iex # Desktop
+irm https://haarness.ai/install.ps1 | iex                                  # Windows, in PowerShell
+$env:HAARNESS_PRODUCT='desktop'; irm https://haarness.ai/install.ps1 | iex # Desktop
 ```
 
 Or download it from [haarness.ai/download](https://haarness.ai/download): `.dmg` for macOS, `.AppImage`
