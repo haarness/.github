@@ -66,9 +66,6 @@ Or download it from [haarness.ai/download](https://haarness.ai/download): `.dmg`
 | --- | --- | --- |
 | **haarness** | The agent, terminal app, Desktop, server, SDKs and Haarness for Chrome — free on your computer | Apache 2.0 |
 | **haarness-router** | A stateless, OpenAI-compatible router for every model provider, to host yourself | MIT |
-| **haarness-cloud** | Haarness Cloud, the hosted service built on the same runtime | Hosted |
-| **haarness-ios** | Haarness for iPhone and iPad, coming soon | — |
-| **haarness-android** | Haarness for Android phones and tablets, coming soon | — |
 
 The repositories open soon. Until then, write to us at **admin@haarness.ai**.
 
