@@ -64,9 +64,11 @@ Or download it from [haarness.ai/download](https://haarness.ai/download): `.dmg`
 
 | Project | What it is | License |
 | --- | --- | --- |
-| **haarness** | The agent, terminal app, Desktop, server, SDKs and Haarness for Chrome — free on your computer | Apache 2.0 |
-| **haarness-router** | A stateless, OpenAI-compatible router for every model provider, to host yourself | MIT |
+| **[haarness](https://github.com/haarness/haarness)** | The agent, terminal app, Desktop, server, SDKs and Haarness for Chrome — free on your computer | Apache 2.0 |
+| **[haarness-router](https://github.com/haarness/haarness-router)** | A stateless, OpenAI-compatible router for every model provider, to host yourself | MIT |
 
-The repositories open soon. Until then, write to us at **admin@haarness.ai**.
+[Haarness Cloud](https://haarness.ai/product/cloud) is the hosted service at haarness.ai. The phone apps for
+[iPhone and iPad](https://haarness.ai/product/ios) and [Android](https://haarness.ai/product/android) are coming soon.
+Questions? Write to us at **admin@haarness.ai**.
 
 <sub>The Haarness name and logo are trademarks of the Haarness project.</sub>
