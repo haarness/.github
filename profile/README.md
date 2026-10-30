@@ -16,9 +16,10 @@
   <img alt="17 interface languages" src="https://img.shields.io/badge/languages-17-eae5dd?style=flat-square&labelColor=232120">
 </p>
 
-**Haarness is the harness around the model** — the tools, memory and guard rails that let AI do real
-work and show you every step, on your computer, in the cloud and inside your own apps. Describe the
-outcome in your own words; Haarness plans the steps, uses the right tools and checks its own work.
+**Haarness is an AI assistant that does the work, not just the talking.** You see every step, and it
+asks before anything that matters. It runs on your computer, in the cloud and inside your own apps.
+Describe the outcome in your own words; Haarness plans the steps, uses the right tools and checks its
+own work.
 
 ### One assistant. Every screen you use.
 
